@@ -15,6 +15,8 @@ def subtract(num1, num2):
 
 def multiply(num1, num2):
     """Multiply the num1 by num2 and return the result."""
+    total = num1 * num2
+    return total
 
 
 def divide(num1, num2):
