@@ -9,6 +9,8 @@ def add(num1, num2):
 
 def subtract(num1, num2):
     """Return the value of num1 minus num2."""
+    total = num1 - num2
+    return total
 
 
 def multiply(num1, num2):
